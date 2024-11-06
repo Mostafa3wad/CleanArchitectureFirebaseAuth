@@ -8,7 +8,7 @@ Cineb is a Flutter application built with **Clean Architecture** and Firebase fo
 
 | Login Screen                           | Sign Up Screen                            | Forget Password                                            | Verify Code Screen                                 |
 | -------------------------------------- | ----------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------- |
-| ![Login Screen]([screenshots/login.png](https://github.com/Mostafa3wad/CleanArchitectureFirebaseAuth/blob/main/assets/app/login.png?raw=true)) | ![Sign Up Screen]([screenshots/signup.png](https://github.com/Mostafa3wad/CleanArchitectureFirebaseAuth/blob/main/assets/app/sign%20up.png?raw=true)) | ![Forget Password Screen]([screenshots/forget_password.png](https://github.com/Mostafa3wad/CleanArchitectureFirebaseAuth/blob/main/assets/app/forget%20password.png?raw=true)) | ![Verify Code Screen]([screenshots/verify_code.png](https://github.com/Mostafa3wad/CleanArchitectureFirebaseAuth/blob/main/assets/app/verify%20code.png?raw=true)) |
+| ![Login Screen](https://raw.githubusercontent.com/Mostafa3wad/CleanArchitectureFirebaseAuth/refs/heads/main/assets/app/login.png) | ![Sign Up Screen](https://raw.githubusercontent.com/Mostafa3wad/CleanArchitectureFirebaseAuth/refs/heads/main/assets/app/sign%20up.png)) | ![Forget Password Screen](https://raw.githubusercontent.com/Mostafa3wad/CleanArchitectureFirebaseAuth/refs/heads/main/assets/app/forget%20password.png)) | ![Verify Code Screen](https://raw.githubusercontent.com/Mostafa3wad/CleanArchitectureFirebaseAuth/refs/heads/main/assets/app/verify%20code.png)) |
 
 
 
